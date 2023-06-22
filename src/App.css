@@ -36,3 +36,44 @@
     transform: rotate(360deg);
   }
 }
+
+.inputComp{
+  background-color: red;
+  color: green;
+}
+
+.recentTasks{
+  border: 1px solid gray;
+}
+
+.teamCard{
+  margin: 10px;
+  width: 200px;
+  border: 2px solid green;
+  border-radius: 10px;
+  box-shadow: 5px 5px 5px red;
+}
+
+.viewTeam{
+  display: flex;
+  width: max-content;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.taskInput{
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+
+.selector{
+  font-size: 20px;
+  padding: 10px;
+  width: max-content;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.assignButton{
+ font-size: "50px";
+}
